@@ -15,7 +15,7 @@ RUN apt-get update
 RUN apt-get upgrade
 
 # Install basic utilities
-RUN apt-get install wget build-essential curl libssl-dev git
+RUN apt-get install wget build-essential curl ca-certificates libssl-dev git
 
 # Install user utilities
 RUN apt-get install sudo tmux vim
