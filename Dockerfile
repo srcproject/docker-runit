@@ -1,4 +1,4 @@
-FROM debian:stable
+FROM srcproject/debian:stable
 
 MAINTAINER Unai Zalakain <contact@unaizalakain.info>
 
