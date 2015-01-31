@@ -1,7 +1,10 @@
 [Strathclyde Relay Chat (src)][src] - runit
 ===========================================
 
+[Docker image][docker-image].
+
 [src]: https://github.com/srcproject
+[docker-image]: https://registry.hub.docker.com/u/srcproject/runit/
 
 
 Dependencies
